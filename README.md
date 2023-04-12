@@ -1,4 +1,4 @@
-[Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363/)
+<!-- [Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363/) -->
 
 ## Hello world!
 
