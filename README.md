@@ -3,10 +3,10 @@
  <table>
    <tr>
     <td >
-      <img src="panda.gif" width="120"> 
+      <img src="panda.gif" width="150"> 
     </td>
     <td >
-      <img src="https://dummyimage.com/150x80/0d1117/ffffff.jpg&text=Hello+world!"> 
+      <img src="https://dummyimage.com/120x50/0d1117/ffffff.jpg&text=Hello+world!"> 
     </td>
     <td >
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsa25&theme=solarized_dark" >
