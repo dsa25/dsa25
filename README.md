@@ -16,7 +16,8 @@
    </td>
  </tr>
 </table>
- 
+
+ <!--
 ### Мои работы: 
 
 | # |        name        | stack | description | adaptive |
@@ -29,7 +30,7 @@
 | 3 | [lk-fmk](https://github.com/dsa25/lk-fmk)  | `HTML` `CSS` `jQuery` `Bootstrap` | дашбоард |
 | 2 | [portfolio_old](https://github.com/dsa25/portfolio_old)  | `HTML` `CSS` `SCSS` `jQuery` | старое портфолио | &check; |
 | 1 | [grid_scss](https://github.com/dsa25/grid_scss)  | `HTML` `CSS` `SCSS` |  компиляция `grid.css` |
-
+-->
 
 <!--
 <div align="left">
